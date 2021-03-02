@@ -7,4 +7,11 @@
     <string name="description">Description...</string>
     <string name="postedimage">postedImage</string>
     <string name="take_picture">Take Picture</string>
+    <string name="home">Home</string>
+    <string name="compose">Compose</string>
+    <string name="profile">Profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview">TextView</string>
+    <string name="posted_image">posted_image</string>
 </resources>
