@@ -10,7 +10,7 @@ The following **required** functionality is completed:
 
 - [x] User can view the last 20 posts submitted to "Instagram".
 - [x] The user should switch between different tabs - viewing all posts (feed view), compose (capture photos form camera) and profile tabs (posts made) using fragments and a Bottom Navigation View. (2 points)
-- [ ] User can pull to refresh the last 20 posts submitted to "Instagram".
+- [x] User can pull to refresh the last 20 posts submitted to "Instagram".
 
 The following **optional** features are implemented:
 
@@ -30,13 +30,15 @@ The following **additional** features are implemented:
 
 - [ ] List anything else that you can get done to improve the app functionality!
 
+## Swipe to Refresh Demo
+
+![Swipe to Refresh Demo](Parstagram_refresh.gif)
+
 ## Video Walkthrough
 
 ![Video Walkthrough](Parstagram_p2.gif)
 
 ## Notes
-
-I had some trouble getting swipe to refresh to work but I did start implementing it.
 
 ## Open-source libraries used
 
